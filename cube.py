@@ -1,2 +1,2 @@
 num = int (input("Enter a number:"))
-print("Square:",num*num)
+print("Square:",num*num*num)
